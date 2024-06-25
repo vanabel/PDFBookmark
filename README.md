@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Usage
 Run the script with the following command:
 ```bash
-python bookmark.py bookmarks.txt input.pdf [output.pdf]
+python bookmarks.py bookmarks.txt input.pdf [output.pdf]
 ```
 
 ## Input File Format
